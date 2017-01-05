@@ -308,3 +308,6 @@ bin/mm-pp-daemon
 vendor/lib/libdisp-aba.so
 -vendor/lib/libmm-abl.so
 vendor/lib/libmm-abl-oem.so
+
+# UI Blur
+vendor/lib/libuiblur.so
