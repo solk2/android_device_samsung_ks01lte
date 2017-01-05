@@ -135,6 +135,7 @@ PRODUCT_PACKAGES += \
     init.crda.sh \
     init.qcom.rc \
     init.qcom.power.rc \
+    init.recovery.qcom.rc \
     init.qcom.usb.rc \
     ueventd.qcom.rc
 
